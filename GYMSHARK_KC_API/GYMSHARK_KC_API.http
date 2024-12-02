@@ -1,0 +1,6 @@
+@GYMSHARK_KC_API_HostAddress = http://localhost:5148
+
+GET {{GYMSHARK_KC_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
